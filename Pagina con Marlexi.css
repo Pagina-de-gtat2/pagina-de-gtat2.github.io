@@ -1,0 +1,79 @@
+#imgfondo {
+
+    background: url(file:///E:/Materias/Lab%20de%20aplicaciones/Pagina%20web%20de%20Hudson%20y%20Alezi/Imagenes%20de%20la%20pagina/gta-online.webp);
+    background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.titulo {
+
+    color: #2d572c;
+    text-align: center;
+    font-size: 30px;
+}
+
+.imagen1nicio {
+	
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: center;
+}
+
+.franklin {
+	
+	align-items: left;
+	display: inline-block;
+	color: #2d572c;
+}
+
+.michael {
+	
+	align-items: left;
+	display: inline-block;
+	color: blue;
+}
+
+.trevor{
+	
+	align-items: left;
+	display: inline-block;
+	color: orange;
+}
+
+.imagen1 {
+
+    display: flex;
+    justify-content: center;
+}
+
+.centro{
+
+    display: center;
+    justify-content: center;
+}
+
+section {
+
+    text-align: center;
+    font-size: 25px;
+}
+
+.Parrafos {
+    
+    font-size: 20px;
+}
+
+.Subtitulo {
+
+    font-size: 25px;
+}
+
+.links {
+
+    font-size: 20px;
+    color:  #ffab00;
+}
+
